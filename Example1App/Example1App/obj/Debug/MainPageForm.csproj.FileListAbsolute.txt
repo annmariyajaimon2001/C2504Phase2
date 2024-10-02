@@ -1,0 +1,13 @@
+C:\Users\2021473\source\repos\Example1App\Example1App\bin\Debug\Example1App.exe.config
+C:\Users\2021473\source\repos\Example1App\Example1App\bin\Debug\Example1App.exe
+C:\Users\2021473\source\repos\Example1App\Example1App\bin\Debug\Example1App.pdb
+C:\Users\2021473\source\repos\Example1App\Example1App\obj\Debug\MainPageForm.csproj.AssemblyReference.cache
+C:\Users\2021473\source\repos\Example1App\Example1App\obj\Debug\Example1App.Form1.resources
+C:\Users\2021473\source\repos\Example1App\Example1App\obj\Debug\Example1App.Properties.Resources.resources
+C:\Users\2021473\source\repos\Example1App\Example1App\obj\Debug\Example1App.SalaryPage.resources
+C:\Users\2021473\source\repos\Example1App\Example1App\obj\Debug\Example1App.SquareCalcForm.resources
+C:\Users\2021473\source\repos\Example1App\Example1App\obj\Debug\Example1App.SumCalcForm.resources
+C:\Users\2021473\source\repos\Example1App\Example1App\obj\Debug\MainPageForm.csproj.GenerateResource.cache
+C:\Users\2021473\source\repos\Example1App\Example1App\obj\Debug\MainPageForm.csproj.CoreCompileInputs.cache
+C:\Users\2021473\source\repos\Example1App\Example1App\obj\Debug\Example1App.exe
+C:\Users\2021473\source\repos\Example1App\Example1App\obj\Debug\Example1App.pdb
